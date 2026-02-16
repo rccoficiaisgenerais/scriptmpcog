@@ -112,7 +112,7 @@ Representando a [color=#005600][b]Presidência do Corpo de Oficiais Generais[/b]
 
 A Equipe do [color=#005600][b]Corpo de Oficiais Generais[/b][/color] vem, por meio desta mensagem privada, informar que nos aproximamos do período da Avaliação Quinzenal do Corpo de Oficiais. Portanto, visando preservar a relevância das opiniões a serem colhidas nesse processo, os [b]tenentes[/b] e [b]capitães[/b] ficarão com as [b]promoções bloqueadas[/b] até segunda ordem.[/justify]
 
-[table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; box-shadow: 0 0 0 1px #D9D9D9" bgcolor="#F5F5F5"][tr][td style="overflow: hidden; padding: 1.5%;"][color=#005600][b]➜[/b][/color] Qualquer promoção envolvendo as patentes supracitadas, caso efetuada após esta notificação, será cancelada, e o responsável receberá uma advertência escrita por abandono de dever/negligência.[/td][/tr][/table]
+[table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; box-shadow: 0 0 0 1px #D9D9D9" bgcolor="#F5F5F5"][tr][td style="overflow: hidden; padding: 1.5%;"][color=#005600][b]•[/b][/color] Qualquer promoção envolvendo as patentes supracitadas, caso efetuada após esta notificação, será cancelada, e o responsável receberá uma advertência escrita por abandono de dever/negligência.[/td][/tr][/table]
 [b]Em caso de dúvidas, entre em contato com o Ministério do Corpo de Oficiais Generais.[/b][/td][/tr][/table][/td][/tr][/table]
 [table style="font-weight: 500; overflow: hidden; border-radius: 10px; width: 250px; color: #FFFFFF; font-size: 12px; margin: 0 auto; margin-top: -39px; position: relative; z-index: 2;"][tr style="border: none !important;"][td style="border: none !important; padding: 5px;" bgcolor="#121212"]Atenciosamente, [b]Equipe do COG.[/b][/td][/tr][/table][/font]`,
         bbcode_mensal: `[font=Poppins][table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden;" bgcolor="#121212"][tr][td style="overflow: hidden; padding: 1%"][img]https://i.imgur.com/7suYBZs.png[/img]
@@ -122,7 +122,7 @@ A Equipe do [color=#005600][b]Corpo de Oficiais Generais[/b][/color] vem, por me
 
 A Equipe do [color=#005600][b]Corpo de Oficiais Generais[/b][/color] vem, por meio desta mensagem privada, informar que nos aproximamos do período da Avaliação Mensal do Corpo de Oficiais. Portanto, visando preservar a relevância das opiniões a serem colhidas nesse processo, os [b]tenentes[/b], [b]capitães[/b] e [b]coronéis[/b] ficarão com as [b]promoções bloqueadas[/b] até segunda ordem.[/justify]
 
-[table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; box-shadow: 0 0 0 1px #D9D9D9" bgcolor="#F5F5F5"][tr][td style="overflow: hidden; padding: 1.5%;"][color=#005600][b]➜[/b][/color] Qualquer promoção envolvendo as patentes supracitadas, caso efetuada após esta notificação, será cancelada, e o responsável receberá uma advertência escrita por abandono de dever/negligência.[/td][/tr][/table]
+[table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; box-shadow: 0 0 0 1px #D9D9D9" bgcolor="#F5F5F5"][tr][td style="overflow: hidden; padding: 1.5%;"][color=#005600][b]•[/b][/color] Qualquer promoção envolvendo as patentes supracitadas, caso efetuada após esta notificação, será cancelada, e o responsável receberá uma advertência escrita por abandono de dever/negligência.[/td][/tr][/table]
 [b]Em caso de dúvidas, entre em contato com o Ministério do Corpo de Oficiais Generais.[/b][/td][/tr][/table][/td][/tr][/table]
 [table style="font-weight: 500; overflow: hidden; border-radius: 10px; width: 250px; color: #FFFFFF; font-size: 12px; margin: 0 auto; margin-top: -39px; position: relative; z-index: 2;"][tr style="border: none !important;"][td style="border: none !important; padding: 5px;" bgcolor="#121212"]Atenciosamente, [b]Equipe do COG.[/b][/td][/tr][/table][/font]`,
         groups: [
@@ -146,7 +146,7 @@ A Equipe do [color=#005600][b]Corpo de Oficiais Generais[/b][/color] vem, por me
 [size=11]Clique aqui para conferir o resultado da Avaliação do Corpo de Oficiais.[/size][/color][/td][/tr][/table][/url][/td][/tr][/table]
 [b]As promoções outrora bloqueadas já podem ser realizadas normalmente[/b], à exceção dos oficiais que obtiveram desempenho abaixo da média. Estes, por sua vez, permanecerão com suas promoções bloqueadas por mais cinco dias, a fim de evitar que promoções irregulares ocorram neste período.
 
-[table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; box-shadow: 0 0 0 1px #D9D9D9" bgcolor="#F5F5F5"][tr][td style="overflow: hidden; padding: 1.5%;"][color=#005600][b]➜[/b][/color] Recomenda-se que os oficiais superiores façam uso das informações ali constantes para o aprimoramento de suas análises acerca dos militares, seja para fins de gratificação, punição ou manutenção de seus subalternos.[/td][/tr][/table][/justify]
+[table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; box-shadow: 0 0 0 1px #D9D9D9" bgcolor="#F5F5F5"][tr][td style="overflow: hidden; padding: 1.5%;"][color=#005600][b]•[/b][/color] Recomenda-se que os oficiais superiores façam uso das informações ali constantes para o aprimoramento de suas análises acerca dos militares, seja para fins de gratificação, punição ou manutenção de seus subalternos.[/td][/tr][/table][/justify]
 
 [b]Em caso de dúvidas, entre em contato com o Ministério do Corpo de Oficiais Generais.[/b][/td][/tr][/table][/td][/tr][/table]
 [table style="font-weight: 500; overflow: hidden; border-radius: 10px; width: 250px; color: #FFFFFF; font-size: 12px; margin: 0 auto; margin-top: -39px; position: relative; z-index: 2;"][tr style="border: none !important;"][td style="border: none !important; padding: 5px;" bgcolor="#121212"]Atenciosamente, [b]Equipe do COG.[/b][/td][/tr][/table][/font]`,
@@ -335,7 +335,7 @@ Os coronéis deverão ser avaliados pelo período compreendido a todo o mês de 
 
 [b]3.[/b] Os destaque observará os seguintes critérios:
 [b]a)[/b] O destaque deverá possuir a maior nota em sua patente, sendo avaliado por, no mínimo, três avaliadores;
-[b]b)[/b] Haverá apenas um destaque por patente, exceto caso dois ou mais militares alcancem nota idêntica.[/size][/spoiler][/justify]
+[b]b)[/b] Haverá apenas um destaque por patente, sendo que o critério de desempate será o maior tempo na patente.[/size][/spoiler][/justify]
 
 [b]Em caso de dúvidas, entre em contato com o Ministério do Corpo de Oficiais Generais.[/b][/td][/tr][/table][/td][/tr][/table]
 
@@ -384,7 +384,7 @@ Os coronéis deverão ser avaliados pelo período compreendido a todo o mês de 
 
 [b]3.[/b] Os destaque observará os seguintes critérios:
 [b]a)[/b] O destaque deverá possuir a maior nota em sua patente, sendo avaliado por, no mínimo, três avaliadores;
-[b]b)[/b] Haverá apenas um destaque por patente, exceto caso dois ou mais militares alcancem nota idêntica.[/size][/spoiler][/justify]
+[b]b)[/b] Haverá apenas um destaque por patente, sendo que o critério de desempate será o maior tempo na patente.[/size][/spoiler][/justify]
 
 [b]Em caso de dúvidas, entre em contato com o Ministério do Corpo de Oficiais Generais.[/b][/td][/tr][/table][/td][/tr][/table]
 
