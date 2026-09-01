@@ -43,7 +43,7 @@ A Equipe do [color=#005600][b]Corpo de Oficiais Generais[/b][/color], por meio d
     },
     resultado: {
         title: "Resultado - Melhores Oficiais",
-        topic: "https://www.policiarcc.com/t33075-",
+        topic: "https://www.policiarcc.com/t36339-",
         description: "Poste o resultado da votação quinzenal no tópico.",
         hasForm: true,
         bbcode: `[table style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; text-align: center; font-family: Poppins;" bgcolor="#121212"][tr][td style="overflow: hidden; padding: 1%"][img]https://i.imgur.com/7suYBZs.png[/img]
@@ -54,7 +54,7 @@ A Equipe do [b][color=#005600]Corpo de Oficiais Generais[/color][/b] parabeniza 
 
 [table style="font-weight: 500; box-shadow: 0 0 0 1px #121212; border-radius: 10px; width: auto; height: auto; overflow: hidden; margin: 0 auto;" bgcolor="#FFFFFF"][tr][td style="overflow: hidden; padding: 1.5%;"][table style="font-weight: 500; border-radius: 10px; width: 100%; height: auto; overflow: hidden;" bgcolor="#FFFFFF"][tr][td style="overflow: hidden; padding: 0%"][img]{{imagem}}[/img][/td][/tr][/table]
 
-A medalha de classificação [b][color=#005600]nível II[/color][/b] está disponível por 24 horas aos primeiros colocados, encerrando-se às [b][color=#005600]{{hora}}[/color][/b] do dia [b][color=#005600]{{prazo}}[/color][/b].
+A medalha de classificação [b][color=#005600]nível II[/color][/b] está disponível por 48 horas aos primeiros colocados, encerrando-se às [b][color=#005600]{{hora}}[/color][/b] do dia [b][color=#005600]{{prazo}}[/color][/b].
 [table  style="font-weight: 500; border-radius: 10px; width: 65%; overflow: hidden; margin: 0 auto;" bgcolor="#FFFFFF"][tr][td style="overflow: hidden; padding: 5px;"][url={{transparencia}}][table style="box-shadow: 0 0 0 1px #005600; border-radius: 10px; width: 100%; overflow: hidden; margin: 0 auto;"][tr][td style="overflow: hidden; padding: 0.4%; width: 15%;" bgcolor="#005600"][img(50px,50px)]https://i.imgur.com/dnTQDPh.png[/img][/td][td style="overflow: hidden; padding: 0.8%; width: 35%;" bgcolor="#FFFFFF"][color=#005600][b]TRANSPARÊNCIA[/b]
 [size=11]Clique aqui para acessar a transparência de votos.[/size][/color][/td][/tr][/table][/url][/td][/tr][/table][/td][/tr][/table][/td][/tr][/table][/td][/tr][/table]
 
@@ -245,7 +245,7 @@ Os capitães deverão ser avaliados pelo período compreendido entre [b]{{period
 
 [tr style="border: none !important;"][td style="border: none !important; padding: 10px; padding-bottom: 17px; width: 100%; vertical-align: top;" colspan="2"][table style="border: none !important; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.25), 0px 2px 5px rgba(0, 0, 0, 0.25); border-radius: 10px; width: 100%; overflow: hidden; margin: 0 auto; vertical-align: top;" bgcolor="#EFEFEF"][tr style="border: none !important;"][td style="border: none !important; padding: 10px; width: 15%;"][justify][color=#005600][size=15][b][u]OBSERVAÇÕES[/u]:[/b][/size][/color]
 
-[b][color=#005600]➜[/color][/b] Compete aos capitães e coronéis com 07 dias ativos na quinzena a avaliação dos tenentes, e aos coronéis e generais, nas mesmas condições, a avaliação dos capitães;
+[b][color=#005600]➜[/color][/b] Compete aos capitães e coronéis com 08 dias ativos na quinzena a avaliação dos tenentes, e aos coronéis e generais, nas mesmas condições, a avaliação dos capitães;
 [b][color=#005600]➜[/color][/b] Na ausência de policial a ser avaliado no respectivo turno, permanece obrigatório o envio do formulário, para fins de registro da resposta;
 [b][color=#005600]➜[/color][/b] Estão isentos da responsabilidade de responder ao formulário os policiais que se encontrarem em licença. Caso o policial entre em licença após a liberação do formulário, deverá entrar em contato com a Presidência do Corpo de Oficiais Generais, informando sua impossibilidade de cumprir a obrigação. O descumprimento da presente norma, bem como a inobservância da lista de aptidão, ocasionará advertência escrita, por abandono de dever/negligência.[/justify][/td][/tr][/table][/td][/tr][/table]
 [b]Em caso de dúvidas, entre em contato com o Ministério do Corpo de Oficiais Generais.[/b][/td][/tr][/table][/td][/tr][/table]
@@ -292,7 +292,7 @@ Os coronéis deverão ser avaliados pelo período compreendido a todo o mês de 
 
 [tr style="border: none !important;"][td style="border: none !important; padding: 10px; padding-bottom: 17px; width: 100%; vertical-align: top;" colspan="3"][table style="border: none !important; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.25), 0px 2px 5px rgba(0, 0, 0, 0.25); border-radius: 10px; width: 100%; overflow: hidden; margin: 0 auto; vertical-align: top;" bgcolor="#EFEFEF"][tr style="border: none !important;"][td style="border: none !important; padding: 10px; width: 15%;"][justify][color=#005600][size=15][b][u]OBSERVAÇÕES[/u]:[/b][/size][/color]
 
-[b][color=#005600]➜[/color][/b] Compete aos capitães e coronéis com 07 dias ativos na quinzena a avaliação dos tenentes, e aos coronéis e generais, nas mesmas condições, a avaliação dos capitães. Por sua vez, a avaliação dos coronéis compete aos generais e marechais com 15 dias ativos no mês.
+[b][color=#005600]➜[/color][/b] Compete aos capitães e coronéis com 08 dias ativos na quinzena a avaliação dos tenentes, e aos coronéis e generais, nas mesmas condições, a avaliação dos capitães. Por sua vez, a avaliação dos coronéis compete aos generais e marechais com 16 dias ativos no mês.
 [b][color=#005600]➜[/color][/b] Na ausência de policial a ser avaliado no respectivo turno, permanece obrigatório o envio do formulário, para fins de registro da resposta;
 [b][color=#005600]➜[/color][/b] Estão isentos da responsabilidade de responder ao formulário os policiais que se encontrarem em licença. Caso o policial entre em licença após a liberação do formulário, deverá entrar em contato com a Presidência do Corpo de Oficiais Generais, informando sua impossibilidade de cumprir a obrigação. O descumprimento da presente norma, bem como a inobservância da lista de aptidão, ocasionará advertência escrita, por abandono de dever/negligência.[/justify][/td][/tr][/table][/td][/tr][/table]
 [b]Em caso de dúvidas, entre em contato com o Ministério do Corpo de Oficiais Generais.[/b][/td][/tr][/table][/td][/tr][/table]
@@ -397,7 +397,7 @@ Os coronéis deverão ser avaliados pelo período compreendido a todo o mês de 
         hasForm: true,
         subject: "[COG] Atualização de Emblemas",
         groups: [
-            { id: '687', name: 'Corpo de Oficiais Generais', logo: 'https://i.imgur.com/s93G0et.png' }
+            { id: '354', name: 'Corpo de Oficiais Generais', logo: 'https://i.imgur.com/s93G0et.png' }
         ],
         bbcode: `[table  style="font-weight: 500; border-radius: 10px; width: 100%; overflow: hidden; font-family: Poppins;" bgcolor="#121212"][tr][td style="overflow: hidden; padding: 1%"][img]https://i.imgur.com/7suYBZs.png[/img]
 
